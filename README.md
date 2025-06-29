@@ -2,6 +2,10 @@
 
 An interactive quiz application built with React. Users answer multiple-choice questions, track progress and time, and see their final score at the end.
 
+## 🔗 Live Demo
+
+👉 [Try the live app on Vercel 🚀](https://react-quiz-app-dun.vercel.app)
+
 ## 🚀 Features
 
 - One question at a time
