@@ -18,18 +18,6 @@ An interactive quiz application built with React. Users answer multiple-choice q
 - CSS for styling
 - Create React App
 
-## 📁 Project Structure
-
-.
-├── public/               # Static assets
-├── src/
-│   ├── components/       # UI components
-│   ├── data/             # Questions data (questions.js)
-│   ├── index.js          # Entry point
-│   └── App.js            # Main app component
-├── package.json
-└── README.md
-
 ▶️ Getting Started
 
 - npm install
